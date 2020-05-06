@@ -1,5 +1,4 @@
 # Data Structures and Algorithms in Python:
---------------------------------------------
 
 This repository consists of various programs I have written for my class at St. Joseph's College of Art and Science.
 
